@@ -2,11 +2,12 @@
 title: Write You A Static Site Generator
 date: '2018-06-30T19:04:16+01:00'
 image: /images/write-you-a-static-site-generator.jpg
+excerpt: My talk for the April 2018 NodeJS Dublin Meetup ⚡️
 comments: true
 noauthor: false
 math: false
 share: true
-excerpt: "My talk for the April 2018 NodeJS Dublin Meetup ⚡️"
+categories: speaking
 ---
 > My talk for the NodeJS Dublin Meetup, [April 2018](https://www.meetup.com/Dublin-Node-js-Meetup/events/249736007/) ⚡️
 
