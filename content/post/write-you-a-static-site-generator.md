@@ -9,7 +9,6 @@ share: true
 ---
 > My talk for the NodeJS Dublin Meetup, [April 2018](https://www.meetup.com/Dublin-Node-js-Meetup/events/249736007/) ⚡️
 
-
 **Description:** The JAM stack has become a popular way of developing sites. 
 In this talk, I will go through the process of building a static site generator. 
 I will talk about the choices to make when designing your own, why NodeJS is well suited for this, and will cover actually writing one in the talk. 
