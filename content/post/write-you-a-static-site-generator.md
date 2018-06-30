@@ -6,6 +6,7 @@ comments: true
 noauthor: false
 math: false
 share: true
+excerpt: "My talk for the April 2018 NodeJS Dublin Meetup ⚡️"
 ---
 > My talk for the NodeJS Dublin Meetup, [April 2018](https://www.meetup.com/Dublin-Node-js-Meetup/events/249736007/) ⚡️
 
