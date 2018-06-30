@@ -16,13 +16,16 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Summary", name: "excerpt", widget: "string"}
+      - {label: "Summary", name: "excerpt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Allow comments", name: "comments", widget: "boolean", default: true}
       - {label: "Hide author", name: "noauthor", widget: "boolean", default: false}
-      - {label: "Use MathJax", name: "math", widget: "boolean", default: false}
+      - {label: "Use MathJax", name: "math", widget: "boolean", default: false, required: false}
       - {label: "Show social share buttons", name: "share", widget: "boolean", default: true}
-
+      - label: "Category"
+        name: "categories"
+        widget: "select"
+        options: ["projects", "speaking", "posts"]
   - name: "pages"
     label: "Pages"
     files:
