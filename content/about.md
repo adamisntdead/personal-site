@@ -7,11 +7,12 @@ type = "page"
 
 [menu.main]
 weight = 111
-
 +++
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !!
+
+Hey! My name is Adam and I am currently a student in [Skerries Community College](http://www.skerriescommunitycollege.ie/), in Dublin.
+I do a lot of programming too, and I built a few things like [TermBar](http://termbar.com), 
+[Break](https://www.producthunt.com/posts/break), [Medium TOC](https://www.mediumtoc.com/).
+
+I also wrote a few tools, like [QCGPU](https://qcgpu.github.io), [DevMyMac](https://github.com/adamisntdead/DevMyMac).
+
+I spend a lot of time working on things and learning about other things, some of which I will write here, most of which I will [tweet about](https://twitter.com/adamisntdead). Make sure to check out my [GitHub](https://github.com/adamisntdead) too!
