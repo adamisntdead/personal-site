@@ -1,0 +1,51 @@
+baseurl = "/"
+copyright = "All rights reserved"
+disqusshortname = "adamisntdead"
+languagecode = "en-GB"
+paginate = 5
+pluralizelisttitles = false
+theme = "hugo-theme-casper"
+title = "Adam Kelly"
+
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/"
+weight = 100
+
+[[menu.main]]
+pre = "<br><h3>follow me</h3>"
+name = "GitHub"
+url = "https://github.com/adamisntdead"
+weight = 2
+
+[[menu.main]]
+name = "Twitter"
+url = "https://twitter.com/adamisntdead"
+weight = 1
+
+[params]
+hjsStyle = "dracula"
+customFooterPartial = "netlify.html"
+googleAnalyticsUserID = "UA-79101-12"
+hideHUGOSupport = false
+
+cover = "images/cover.jpg"
+description = "Writing about Rust, Javascript, Math, Speaking And Whatever I'm Interested In."
+
+logo = "images/logo.png"
+author = "Adam Kelly"
+authorlocation = "Skerries, Dublin"
+authorwebsite = "http://adamkelly.com"
+authorbio = "Student at Skerries Community College & Developer"
+githubName = "adamisntdead"
+twitterName = "adamisntdead"
+
+[permalinks]
+post = "/:slug/"
+
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
