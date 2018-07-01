@@ -1,5 +1,5 @@
 ---
-title: The easy way to start automatically testing your website
+title: The Easy Way To Start Automatically Testing Your Website
 date: '2018-07-01T03:00:38+01:00'
 excerpt: >-
   Some testing tasks can be automated to handle these tasks more efficiently.
