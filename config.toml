@@ -1,6 +1,6 @@
 baseurl = "https://adamisntdead.com/"
 copyright = "All rights reserved"
-disqusshortname = "adamisntdead"
+DisqusShortname = "adamisntdead"
 languagecode = "en-GB"
 paginate = 5
 pluralizelisttitles = false
