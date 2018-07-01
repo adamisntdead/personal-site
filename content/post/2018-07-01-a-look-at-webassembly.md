@@ -1,6 +1,7 @@
 ---
 title: 'A Look At WebAssembly '
 date: '2018-07-01T00:00:00+01:00'
+image: /images/eopbrvy-.jpg
 excerpt: >-
   I gave a talk at DublinJS about WebAssembly, about its performance, when to
   use it and more.
