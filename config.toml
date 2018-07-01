@@ -41,6 +41,8 @@ authorwebsite = "http://adamkelly.com"
 authorbio = "Student at Skerries Community College & Developer"
 githubName = "adamisntdead"
 twitterName = "adamisntdead"
+instagramName = "adamkelly2211"
+email = "adamkelly2201@gmail.com"
 
 [permalinks]
 post = "/:slug/"
