@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://adamisntdead.com/"
 copyright = "All rights reserved"
 disqusshortname = "adamisntdead"
 languagecode = "en-GB"
@@ -6,7 +6,6 @@ paginate = 5
 pluralizelisttitles = false
 theme = "hugo-theme-casper"
 title = "Adam Kelly"
-
 
 [[menu.main]]
 identifier = "blog"
@@ -28,7 +27,7 @@ weight = 1
 [params]
 hjsStyle = "dracula"
 customFooterPartial = "netlify.html"
-googleAnalyticsUserID = "UA-79101-12"
+googleAnalyticsUserID = "UA-55882865-8"
 hideHUGOSupport = false
 
 cover = "images/cover.jpg"
