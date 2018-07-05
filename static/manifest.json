@@ -2,6 +2,7 @@
  "name": "Adam Kelly - adamisntdead",
  "short_name": "adamisntdead",
  "theme_color": "#d0a2d1",
+ "background_color": "#FFFFFF",
  "display": "minimal-ui",
  "icons": [
   {
@@ -39,6 +40,12 @@
    "sizes": "192x192",
    "type": "image\/png",
    "density": "4.0"
+  },
+  {
+    "src": "\/android-icon-192x192.png",
+    "sizes": "512x512",
+    "type": "image\/png",
+    "density": "4.0"
   }
  ]
 }
