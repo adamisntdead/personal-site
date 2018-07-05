@@ -1,5 +1,8 @@
 {
- "name": "adamisntdead",
+ "name": "Adam Kelly - adamisntdead",
+ "short_name": "adamisntdead",
+ "theme_color": "#d0a2d1",
+ "display": "minimal-ui",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
