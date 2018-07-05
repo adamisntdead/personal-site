@@ -867,7 +867,7 @@ body.nav-opened .nav {
     padding: 0 15px;
     border: #bfc8cd 1px solid;
     opacity: 1;
-    color: #9EABB3;
+    color: #818c92;
     text-align: center;
     font-size: 12px;
     text-transform: uppercase;
@@ -1044,7 +1044,7 @@ body:not(.post-template) .post-title {
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
-    color: #9EABB3;
+    color: #818c92;
 }
 
 .author-thumb {
@@ -1056,7 +1056,7 @@ body:not(.post-template) .post-title {
 }
 
 .post-meta a {
-    color: #9EABB3;
+    color: #818c92;
     text-decoration: none;
 }
 
@@ -1208,11 +1208,11 @@ body:not(.post-template) .post-title {
     font-size: 1.4rem;
     line-height: 1;
     font-style: italic;
-    color: #9EABB3;
+    color: #818c92;
 }
 
 .author-meta a {
-    color: #9EABB3;
+    color: #818c92;
 }
 .author-meta a:hover {
     color: #111;
@@ -1421,12 +1421,12 @@ body:not(.post-template) .post-title {
     margin: 4rem auto;
     font-family: "Open Sans", sans-serif;
     font-size: 1.3rem;
-    color: #9EABB3;
+    color: #818c92;
     text-align: center;
 }
 
 .pagination a {
-    color: #9EABB3;
+    color: #818c92;
     transition: all 0.2s ease;
 }
 
