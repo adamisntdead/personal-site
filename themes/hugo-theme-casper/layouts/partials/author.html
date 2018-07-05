@@ -8,7 +8,7 @@
 
 {{with $authoravatar}}
 <figure class="author-image">
-    <a class="img" href="{{$.Site.BaseURL}}" style="background-image: url({{. | relURL}})"><span class="hidden">{{$authorname}}'s Picture</span></a>
+    <a class="img" aria-label="The Author" href="{{$.Site.BaseURL}}" style="background-image: url({{. | relURL}})"><span class="hidden">{{$authorname}}'s Picture</span></a>
 </figure>
 {{end}}
 
