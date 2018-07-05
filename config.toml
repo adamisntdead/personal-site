@@ -14,7 +14,7 @@ url = "/"
 weight = 100
 
 [[menu.main]]
-pre = "<br><h3>follow me</h3>"
+pre = "<li><br></li><li><h3>follow me</h3></li>"
 name = "GitHub"
 url = "https://github.com/adamisntdead"
 weight = 2
