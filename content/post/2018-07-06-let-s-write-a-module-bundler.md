@@ -10,7 +10,7 @@ math: false
 share: true
 categories: posts
 ---
-```
+```js
 // ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 // ┃ Hello! Welcome, welcome, it's great to have you here!                ┃
 // ┃ Today we're going to be building a really simple Javascript module   ┃
