@@ -11,6 +11,8 @@ math: false
 share: true
 categories: projects
 ---
+> Check out the source on [GitHub](https://github.com/adamisntdead/wbpck-bundler)
+
 Hello! Welcome, welcome, it's great to have you here!
 Today we're going to be building a really simple Javascript module bundler!
 
