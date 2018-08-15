@@ -1,7 +1,7 @@
 ---
 title: React's Context API
 date: '2018-08-15T13:50:06+01:00'
-image: /images/snapshot.jpg
+image: /images/68747470733a2f2f692e696d6775722e636f6d2f395875796d414b2e706e67.png
 excerpt: My talk about React 16.3's Context API for the ReactJS Dublin Lightning Talks
 comments: true
 noauthor: false
