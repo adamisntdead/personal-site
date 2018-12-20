@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adamkelly2201
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://adamisntdead.com
+  * I am adamkelly2201 (https://keybase.io/adamkelly2201) on keybase.
+  * I have a public key ASAdj9vFFeoYQ7eSauChmQWoiy0jj1HHu1aRSubDV6Gaugo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01201d8fdbc515ea1843b7926ae0a19905a88b2d238f51c7bb56914ae6c357a19aba0a",
+      "host": "keybase.io",
+      "kid": "01201d8fdbc515ea1843b7926ae0a19905a88b2d238f51c7bb56914ae6c357a19aba0a",
+      "uid": "ee7788065dafda7c0c91ec534468a719",
+      "username": "adamkelly2201"
+    },
+    "merkle_root": {
+      "ctime": 1545336530,
+      "hash": "58d9dc4ce09f3ad21057e39a89c8baeb2877881fdbe14342990f1b81b808decfbeadfb75b6a52050b81b98dcfe9c4b7e5971e5c82eeb7be41d51fca2ad924c58",
+      "hash_meta": "34b8a766e0dbf1c7cccbe0a03dc286ec25e81c7cabc13e6ac50fdc1790f0a8e4",
+      "seqno": 4176944
+    },
+    "service": {
+      "entropy": "jx0ccmoYViNicuKbjhfRSzzt",
+      "hostname": "adamisntdead.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.12.2"
+  },
+  "ctime": 1545336544,
+  "expire_in": 504576000,
+  "prev": "1618f83bf06778776664048772d0833c69ae9dda91450552f4fed3397954bfc9",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgHY/bxRXqGEO3kmrgoZkFqIstI49Rx7tWkUrmw1ehmroKp3BheWxvYWTESpcCCMQgFhj4O/BneHdmZASHctCDPGmundqRRQVS9P7TOXlUv8nEIJGBO+DLeBgKGmbDZYpFPIRow3pTbq6oug9aAD2pEtiYAgHCo3NpZ8RAtgKPosYYI4Cl0dO/gU1GbNONSinx1FjZklA+O+Ynx8nuKzBzRilZ0w6zODS0AFvM99iuAxTUiB9Xw0iF5priD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGWip8uE3MxEPyp/JiW6R9gBeKMJveflinANQcuLDugbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adamkelly2201
+
+==================================================================
